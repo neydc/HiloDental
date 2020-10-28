@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Historial";
+   
+}
+
+            <div class="container">
+                <form action="/Doctor/Historial?idPaciente=@ViewBag.Id " method="post">
+                    <label>Número de Historia</label>
+                    <input class="form-control" name="numeroHistoria" />
+                    <label>Observación</label>
+                    <input class="form-control" name="observacion" />
+                    <label>Motivo</label>
+                    <input class="form-control" name="motivo" />
+                    <label>Edad</label>
+                    <input class="form-control" name="edad" />
+                    <label>Descripción</label>
+                    <input class="form-control" name="descripcion" />
+                    <label>Examenes</label>
+                    <input class="form-control" name="examenes" />
+                    <label>Diagnóstico</label>
+                    <input class="form-control" name="diagnostico" />
+                    <label>tratamiento</label>
+                    <input class="form-control" name="tratamiento" />
+                    <button>Guardar</button>
+                </form>
+            </div>
+

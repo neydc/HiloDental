@@ -1,0 +1,49 @@
+﻿
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.22/datatables.min.css" />
+
+<h1> Citas </h1>
+
+<table class="table" id="tbtIndexCita">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Doctor</th>
+            <th>Horario</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Citas)
+        {
+<tr>
+    <td>@item.fecha.ToString("dd/mm/yyyy")</td>
+    <td>@item.doctor.nombres @item.doctor.apellidos</td>
+    <td>@item.horario.horaInicio - @item.horario.horaFin</td>
+    <td>@if (item.estado == "true")
+    {
+        <label> Atendido</label>
+    }
+    @if (item.estado== "false")
+    {
+        <label>Pendiente</label>
+    }
+    </td>
+</tr>
+}
+
+
+    </tbody>
+</table>
+
+@section Scripts{
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.22/datatables.min.js"></script>
+    <script>
+    $(document).ready(function () {
+            $('#tbtIndexCita').DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/1.10.15/i18n/Spanish.json"
+                }
+            });
+        });</script>
+
+}

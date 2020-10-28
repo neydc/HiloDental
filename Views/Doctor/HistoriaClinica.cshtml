@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "HistoriaClinica";
+}
+
+<div class="container">
+    <div class="row">
+       
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id Cliente</th>
+                    <th>Id Historias </th>
+                    <th>Id NumerHisotoria</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ViewBag.History)
+                {
+                <tr>
+
+                    <td>@foreach (var cliente in ViewBag.Clientes)
+                    {
+                        if (cliente.idCliente == item.idCliente)
+                        {
+                            <label>@cliente.nombres</label>
+                        }
+                    }</td>
+                    <td>@item.idHistorial</td>
+                    <td>@item.numeroHistoria</td>
+                </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

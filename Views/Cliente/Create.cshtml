@@ -1,0 +1,87 @@
+﻿@model ProyDentoWeb.Models.Cliente
+
+@{
+    ViewData["Title"] = "Nuevo Cliente";
+}
+
+<h4 class="text-center text-primary">Registrar Nuevo Paciente</h4>
+
+<head>
+    <link rel="stylesheet" href="~/css/loginStyle.css" />
+</head>
+
+<body style="background-image: url(https://gacetadental.com/wp-content/uploads/2019/09/dentista-paciente-1280x720.jpg); background-size:cover;">
+    <div class="row">
+        <div class="container">
+            <form asp-action="Create" method="post" class="form-register">
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-row">
+
+                    <div class="controls col-md-6">
+                        <label asp-for="nombres" class="control-label"></label>
+                        <input asp-for="nombres" name="nombres" type="text" class="form-control" />
+                        <span asp-validation-for="nombres" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label asp-for="apellidos" class="control-label"></label>
+                        <input asp-for="apellidos" name="apellidos" type="text" class="form-control" />
+                        <span asp-validation-for="nombres" class="text-danger"></span>
+                    </div>
+
+                </div>
+                <div class="form-row">
+
+                    <div class="form-group col-md-3">
+                        <label asp-for="dni" class="control-label"></label>
+                        <input asp-for="dni" name="dni" type="text" class="form-control" />
+                        <span asp-validation-for="dni" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <label asp-for="fechaNac" class="control-label"></label>
+                        <input asp-for="fechaNac" name="fechaNac" type="date" class="form-control" />
+                        <span asp-validation-for="fechaNac" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <label asp-for="correo" class="control-label"></label>
+                        <input asp-for="correo" name="correo" type="email" class="form-control" />
+                        <span asp-validation-for="correo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <label asp-for="telefono" class="control-label"></label>
+                        <input asp-for="telefono" name="telefono" type="tel" class="form-control" />
+                        <span asp-validation-for="telefono" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="form-row">
+
+                    <div class="form-group col-md-6">
+                        <label asp-for="usuario" class="control-label">Usuario</label>
+                        <input asp-for="usuario" name="usuario" type="text" class="form-control" />
+                        <span asp-validation-for="usuario" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label asp-for="passwd" class="control-label">Contraseña</label>
+                        <input asp-for="passwd" name="passwd" type="password" class="form-control" />
+                        <span asp-validation-for="passwd" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="form-group text-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="far fa-save"></i> Aceptar
+                    </button>
+                    <button class="btn btn-danger">
+                        <i href="/Home/Index" class="far fa-window-close"></i> Cancelar
+                    </button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</body>
+

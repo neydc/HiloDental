@@ -1,0 +1,1390 @@
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.json
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.exe
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.deps.json
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.json
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.dev.json
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csprojAssemblyReference.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfoInputs.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfo.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.input.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.output.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorCoreGenerate.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.Manifest.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.xml
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.genruntimeconfig.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CopyComplete
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutIndex.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CoreCompileInputs.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.MvcApplicationPartsAssemblyInfo.cache
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/Login.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Index.cshtml.g.cs
+D:/U/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Create.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.exe
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.deps.json
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.json
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.dev.json
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csprojAssemblyReference.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfoInputs.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfo.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CoreCompileInputs.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.MvcApplicationPartsAssemblyInfo.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.input.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.output.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorCoreGenerate.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/Login.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Create.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Index.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutIndex.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cs
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CopyComplete
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.Manifest.cache
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.xml
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/Descargas/Mike/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.genruntimeconfig.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.json
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.exe
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.deps.json
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.json
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.dev.json
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csprojAssemblyReference.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfoInputs.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfo.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CoreCompileInputs.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.MvcApplicationPartsAssemblyInfo.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.input.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.output.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorCoreGenerate.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/Login.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Create.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Index.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutIndex.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cs
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CopyComplete
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.Manifest.cache
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.xml
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/descargas/Diars/ProyDentoWeb/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.genruntimeconfig.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csprojAssemblyReference.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfoInputs.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfo.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CoreCompileInputs.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.MvcApplicationPartsAssemblyInfo.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.json
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.exe
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.deps.json
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.json
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.dev.json
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.input.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.output.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorCoreGenerate.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/Login.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Create.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Index.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutIndex.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cs
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CopyComplete
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.Manifest.cache
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.xml
+D:/U/Diars/Nueva carpeta/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.genruntimeconfig.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.json
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.exe
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.deps.json
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.json
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.dev.json
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csprojAssemblyReference.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfoInputs.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfo.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CoreCompileInputs.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.MvcApplicationPartsAssemblyInfo.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.input.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.output.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorCoreGenerate.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/Login.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Create.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Index.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutIndex.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cs
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CopyComplete
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.Manifest.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.xml
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.dll
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.genruntimeconfig.cache
+D:/U/Diars/Nueva carpeta/ProyDentoWeb1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/LoginDoctor.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.exe
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.deps.json
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.json
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.dev.json
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csprojAssemblyReference.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfoInputs.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfo.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CoreCompileInputs.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.input.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.output.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorCoreGenerate.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/Login.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/LoginDoctor.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Create.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Index.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutIndex.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cs
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CopyComplete
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.Manifest.cache
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.xml
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.dll
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+C:/Users/joshu/OneDrive/Escritorio/ProyDiarsv1-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.genruntimeconfig.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/appsettings.json
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.deps.json
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.json
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.runtimeconfig.dev.json
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csprojAssemblyReference.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfoInputs.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.AssemblyInfo.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CoreCompileInputs.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.MvcApplicationPartsAssemblyInfo.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorAssemblyInfo.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.input.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.TagHelpers.output.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorCoreGenerate.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/Login.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Auth/LoginDoctor.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Create.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cliente/Index.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutIndex.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.RazorTargetAssemblyInfo.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.Views.pdb
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.csproj.CopyComplete
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.Manifest.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/staticwebassets/ProyDentoWeb.StaticWebAssets.xml
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.dll
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.pdb
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/ProyDentoWeb.genruntimeconfig.cache
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Cita/CreatePaciente.cshtml.g.cs
+/home/m1l0/Documentos/Programacion/Rider/DentoWeb-master/ProyDentoWeb/obj/Debug/netcoreapp3.1/Razor/Views/Doctor/Index.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ProyDentoWeb.exe
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ProyDentoWeb.deps.json
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ProyDentoWeb.runtimeconfig.json
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ProyDentoWeb.runtimeconfig.dev.json
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ProyDentoWeb.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ProyDentoWeb.pdb
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ProyDentoWeb.Views.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ProyDentoWeb.Views.pdb
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorAssemblyInfo.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorAssemblyInfo.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.TagHelpers.input.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.TagHelpers.output.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorCoreGenerate.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Auth\LoginDoctor.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Cita\CreatePaciente.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Doctor\Index.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutIndex.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorTargetAssemblyInfo.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorTargetAssemblyInfo.cs
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.Views.pdb
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.csproj.CopyComplete
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\staticwebassets\ProyDentoWeb.StaticWebAssets.Manifest.cache
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\staticwebassets\ProyDentoWeb.StaticWebAssets.xml
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.dll
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.pdb
+C:\Users\joshu\OneDrive\Escritorio\DentoWebV.01-master\obj\Debug\netcoreapp3.1\ProyDentoWeb.genruntimeconfig.cache
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ProyDentoWeb.exe
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ProyDentoWeb.deps.json
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ProyDentoWeb.runtimeconfig.json
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ProyDentoWeb.runtimeconfig.dev.json
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ProyDentoWeb.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ProyDentoWeb.pdb
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ProyDentoWeb.Views.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ProyDentoWeb.Views.pdb
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Dental\DentoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.csprojAssemblyReference.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.AssemblyInfoInputs.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.AssemblyInfo.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.csproj.CoreCompileInputs.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorAssemblyInfo.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorAssemblyInfo.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.TagHelpers.input.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.TagHelpers.output.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorCoreGenerate.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Auth\LoginDoctor.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cita\CreatePaciente.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Doctor\Index.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutIndex.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorTargetAssemblyInfo.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.RazorTargetAssemblyInfo.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.Views.pdb
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.csproj.CopyComplete
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProyDentoWeb.StaticWebAssets.Manifest.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProyDentoWeb.StaticWebAssets.xml
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.dll
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.pdb
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.genruntimeconfig.cache
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Doctor\Historial.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Doctor\HistoriaClinica.cshtml.g.cs

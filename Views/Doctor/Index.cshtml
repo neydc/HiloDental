@@ -1,0 +1,61 @@
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.22/datatables.min.css" />
+
+<h1>Citas Pendientes</h1>
+
+<table class="table" id="tbtCitaDoctor">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Paciente</th>
+            <th>Horario</th>
+            <th>Estado</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Citas)
+        {
+            <tr>
+                <td>@item.fecha.ToString("dd/mm/yyyy")</td>
+                <td>@item.cliente.nombres @item.cliente.apellidos</td>
+                <td>@item.horario.horaInicio - @item.horario.horaFin</td>
+
+                <td>
+                    @if (item.estado == "true")
+                    {
+                        <a>Pendiente</a>
+                        <a href="/Doctor/Historial?idPaciente=@item.idCliente">Atender Paciente</a>
+
+                    }
+
+                    @if (item.estado == "false")
+                    {
+                        <a>Atendido</a>
+                        <a href="/Doctor/HistoriaClinica?idCita=@item.idCita">Ver Historia Clinica</a>
+                    }
+                </td>
+                <td>
+                   
+                </td>
+            </tr>
+}
+
+    </tbody>
+</table>
+
+
+
+
+@section Scripts{
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.22/datatables.min.js"></script>
+    <script>
+    $(document).ready(function () {
+            $('#tbtCitaDoctor').DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/1.10.15/i18n/Spanish.json"
+                }
+            });
+        });</script>
+
+}
