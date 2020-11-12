@@ -88,6 +88,9 @@ namespace ProyDentoWeb.Controllers
             }
 
             ModelState.AddModelError("Login", "Usuario o contraseña incorrectos.");
+            ViewBag.username = username;
+            ViewBag.password= password;
+
             return View();
         }
 
@@ -124,6 +127,8 @@ namespace ProyDentoWeb.Controllers
             }
 
             ModelState.AddModelError("Login", "Usuario o contraseña incorrectos.");
+            ViewBag.username = username;
+            ViewBag.password = password;
             return View();
         }
 

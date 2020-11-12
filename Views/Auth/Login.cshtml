@@ -1,29 +1,65 @@
 ﻿
 @{
     ViewData["Title"] = "Login Paciente";
+    Layout = null;
 }
 
 <head>
-    <link rel="stylesheet" href="~/css/loginStyle.css" />
+    <link href="~/css/estilos.css" rel="stylesheet" />
 </head>
 
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
 
-<body style="background-image: url(https://gacetadental.com/wp-content/uploads/2019/09/dentista-paciente-1280x720.jpg) ; background-size:cover;">
-    <div style="margin-top:230px;margin-left:-1100px;">
-        <form action="/auth/login" method="post" class="form-register">
-            <div class="text-center">
-                <img src="~/images/iso.png" width="270" height="39" style="margin-top:-7px; margin-bottom:25px;" />
-            </div>
-            <span>@Html.ValidationMessage("Login")</span>
+<section class="login-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 login-sec">
+                <h2 class="text-center">Login </h2>
+                <form class="login-form" action="/auth/login" method="post" >
+                    <div class="form-group">
+                        <strong>  @Html.ValidationMessage("Login")</strong>
+                        <label for="exampleInputEmail1" class="text-uppercase">Username</label>
+                        <input required type="text" class="form-control" name="Username" placeholder="Usuario" value="@ViewBag.username">
 
-            <input class="controls" type="text" name="Username" id="nombres" placeholder="Usuario" />
-            <br />
-            <input class="controls" type="password" name="Password" id="correo" placeholder="Contraseña" />
-            <br />
-            <div class="text-center">
-                <button class="botons" type="submit" style="margin-bottom:-2px; margin-top:8px;border-radius:15px; width:150px;">Aceptar</button>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1" class="text-uppercase">Password</label>
+                        <input required type="password" class="form-control" name="Password"  placeholder="Contraseña" value="@ViewBag.password">
+                    </div>
+
+
+                    <div class="form-check">
+                        <label class="form-check-label">
+                            <input type="checkbox" class="form-check-input">
+                            <small>Recordar</small>
+                        </label>
+                        <button type="submit" class="btn btn-login float-right">Iniciar Sesión</button>
+                    </div>
+
+                </form>
+                  </div>
+            <div class="col-md-8 banner-sec">
+                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner" role="listbox">
+                        <div class="carousel-item active">
+                            <img class="d-block img-fluid"src="~/images/img_01.jpeg"  alt="First slide">
+                            
+                           
+                        </div>
+                        
+
+                </div>
             </div>
-        </form>
-    </div>
-</body>
+        </div>
+            </div>
+        </div>
+</section>
 

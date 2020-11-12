@@ -1388,3 +1388,4 @@ D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.pdb
 D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\ProyDentoWeb.genruntimeconfig.cache
 D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Doctor\Historial.cshtml.g.cs
 D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Doctor\HistoriaClinica.cshtml.g.cs
+D:\Dental\DentoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Indes.cshtml.g.cs
